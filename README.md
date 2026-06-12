@@ -31,7 +31,6 @@ BudgetHub provides business-specific financial categorization, real-time insight
       Monthly Trend Analysis
       Top Transactions Report
       Financial Performance Insights
-
     🏢 Business Type Support
       Users can choose from:
         Personal Finance
